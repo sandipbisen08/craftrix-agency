@@ -612,4 +612,7 @@ label {
   #about img {
     margin: 50px 0;
   }
+  .intro h1{
+    font-size: 40px;
+  }
 }
