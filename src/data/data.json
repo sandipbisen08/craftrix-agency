@@ -1,0 +1,195 @@
+{
+  "Header": {
+    "title": "Welcome to Craftrix Agency",
+    "paragraph": "India's Leading Web Design and Development Company, delivering innovative solutions for businesses to thrive in the digital era. We specialize in creating dynamic websites, impactful branding, and result-oriented digital strategies."
+  },
+  "About": {
+    "paragraph": "Welcome to Craftrix, a dynamic web design and development agency dedicated to crafting impactful digital experiences. We specialize in creating stunning websites, seamless web applications, and robust branding strategies that elevate your business. Our expertise extends to SEO, online promotions, and innovative solutions to help your brand thrive in the digital landscape. At Craftrix, we merge creativity with technology to deliver results that drive growth and engagement. Let us transform your ideas into a powerful online presence.",
+    "Why": [
+      "Creative Excellence",
+      "Full-Service Expertise",
+      "Client-Centric Approach",
+      "Custom Solutions",
+      "SEO-Optimized Websites"
+    ],
+    "Why2": [
+      "Responsive & Modern Design",
+      "Data-Driven Results",
+      "Timely Delivery",
+      "Affordable Pricing",
+      "Post-Launch Support"
+    ]
+  },
+  "Stories": [
+    {
+      "title": "Hospitality",
+      "largeImage": "img/portfolio/dev-2.png",
+      "smallImage": "img/portfolio/dev-2.png",
+      "link": "https://hitchkimeals.vercel.app/"
+    },
+    {
+      "title": "Salon",
+      "largeImage": "img/portfolio/dev-7.png",
+      "smallImage": "img/portfolio/dev-7.png",
+      "link": "https://ginger-next-git-main-sandips-projects-d8740d41.vercel.app/"
+    },
+    {
+      "title": "Constructions",
+      "largeImage": "img/portfolio/dev-5.png",
+      "smallImage": "img/portfolio/dev-5.png",
+      "link": "https://kishorbisen.vercel.app/"
+    },
+    {
+      "title": "Developer Portfolio",
+      "largeImage": "img/portfolio/dev-1.png",
+      "smallImage": "img/portfolio/dev-1.png",
+      "link": "https://www.sandipbisen.in/"
+    },
+    {
+      "title": "Civil Portfolio",
+      "largeImage": "img/portfolio/dev-6.png",
+      "smallImage": "img/portfolio/dev-6.png",
+      "link": "https://kishor-site.vercel.app/"
+    },
+    {
+      "title": "IT Engineer",
+      "largeImage": "img/portfolio/dev-4.png",
+      "smallImage": "img/portfolio/dev-4.png",
+      "link": "https://sandipport.framer.ai/"
+    },
+    {
+      "title": "Designer Portfolio",
+      "largeImage": "img/portfolio/dev-3.png",
+      "smallImage": "img/portfolio/dev-3.png",
+      "link": "https://bisensons.framer.ai/"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/dev-7.png",
+      "smallImage": "img/portfolio/dev-7.png",
+      "link": "https://google.com"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/dev-5.png",
+      "smallImage": "img/portfolio/dev-5.png",
+      "link": "https://google.com"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Website Development",
+      "text": "Our development team builds secure, scalable, and high-performance websites using the latest technologies."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "SEO & Digital Marketing",
+      "text": "Boost your online visibility with our targeted SEO strategies and data-driven digital marketing campaigns"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Branding & Identity",
+      "text": "From logos to brand guidelines, we craft a unique identity that sets your business apart from the competition."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Responsive Web Design",
+      "text": "Our designs ensure seamless functionality and visual appeal across all devices and screen sizes."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Social Media Promotions",
+      "text": "Maximize your online presence with engaging campaigns that drive traffic and increase brand awareness."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "UI/UX Design & Optimization",
+      "text": "We enhance user engagement by designing intuitive interfaces and optimizing the overall user experience."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Partnering with Craftrix was the best decision for our business. Our website traffic and sales soared within weeks of launch!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Craftrix understood our unique needs and delivered a tailored website that exceeded our expectations. We’re thrilled with the results!\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The team at Craftrix brought fresh ideas and delivered a modern, responsive website that perfectly represents our brand.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"We started with a simple idea, and Craftrix turned it into a stunning reality. Their professionalism and creativity are top-tier!\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"With their SEO and digital marketing strategies, our online presence has never been stronger. Highly recommended for any growing business!\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"From design to development, Craftrix made everything effortless. The final product was not just a website but a complete business solution.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Civil Lines Nagpur, Maharashtra",
+    "phone": "+91 7875938339",
+    "email": "info@craftrix.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-code",
+      "title": "Web Development",
+      "text": "The most advanced and complete themes for your website. Choose from 100+ ready to use themes."
+    },
+    {
+      "icon": "fa fa-code",
+      "title": "Web Design",
+      "text": "Design your website with the most advanced and complete themes for your website. Choose from 100+ ready to use themes."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Branding",
+      "text": "Your Branding is our priority. We will make sure that your brand is visible on the internet."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "SEO",
+      "text": "The most advanced and complete themes for your website. Choose from 100+ ready to use themes."
+    }
+  ]
+}
