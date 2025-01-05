@@ -615,4 +615,10 @@ label {
   .intro h1{
     font-size: 40px;
   }
+  .section-title h2 {
+    font-size: 22px;
+  }
+  #testimonials {
+    padding: 50px 0;
+  }
 }
