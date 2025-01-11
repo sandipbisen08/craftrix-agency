@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
+import { Faq } from "./components/faq";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 import { Stories } from "./components/gallery";
@@ -27,13 +27,12 @@ const App = () => {
     <div>
       <Navigation />
       <Header data={landingPageData.Header} />
-      {/* <Features data={landingPageData.Features} /> */}
       <Services data={landingPageData.Services} />
       <About data={landingPageData.About} />
-      
       <Stories data={landingPageData.Stories} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
+      <Faq data={landingPageData.Faq} />
       <Contact data={landingPageData.Contact} />
     </div>
   );

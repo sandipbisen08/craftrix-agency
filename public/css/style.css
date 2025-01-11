@@ -193,7 +193,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background: linear-gradient(to right, #4943a3 0%, #c47cc6  100%);
 }
 .btn:active,
 .btn.active {
@@ -243,7 +243,7 @@ a:focus,
 .intro p {
   color: #fff;
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
@@ -615,10 +615,63 @@ label {
   .intro h1{
     font-size: 40px;
   }
+  .intro p {
+    font-size: 18px;
+  }
   .section-title h2 {
     font-size: 22px;
   }
   #testimonials {
     padding: 50px 0;
   }
+  
+}
+.faq-section {
+  background-color: #f7f7f7;
+  padding: 40px 0;
+}
+
+.faq-question {
+  margin-bottom: 20px;
+}
+
+.faq-question-title {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.faq-title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.faq-answer {
+  padding: 10px;
+  display: none;
+}
+
+.faq-answer.active {
+  display: block;
+}
+
+.faq-answer p {
+  font-size: 16px;
+  color: #666;
+}
+
+.fas.fa-chevron-down {
+  transition: transform 0.3s ease-in-out;
+}
+
+.faq-question-title:hover .fas.fa-chevron-down {
+  transform: rotate(180deg);
+}
+
+.faq-answer.active + .faq-question-title .fas.fa-chevron-down {
+  transform: rotate(180deg);
 }

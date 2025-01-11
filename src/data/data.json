@@ -49,7 +49,7 @@
       "title": "Civil Portfolio",
       "largeImage": "img/portfolio/dev-6.png",
       "smallImage": "img/portfolio/dev-6.png",
-      "link": "https://kishor-site.vercel.app/"
+      "link": "https://kishor-site.vercel.app/" 
     },
     {
       "title": "IT Engineer",
@@ -78,32 +78,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-code",
       "name": "Website Development",
       "text": "Our development team builds secure, scalable, and high-performance websites using the latest technologies."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-chart-line",
       "name": "SEO & Digital Marketing",
       "text": "Boost your online visibility with our targeted SEO strategies and data-driven digital marketing campaigns"
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-palette",
       "name": "Branding & Identity",
       "text": "From logos to brand guidelines, we craft a unique identity that sets your business apart from the competition."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-mobile-alt",
       "name": "Responsive Web Design",
       "text": "Our designs ensure seamless functionality and visual appeal across all devices and screen sizes."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-share-alt",
       "name": "Social Media Promotions",
       "text": "Maximize your online presence with engaging campaigns that drive traffic and increase brand awareness."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-pencil-ruler",
       "name": "UI/UX Design & Optimization",
       "text": "We enhance user engagement by designing intuitive interfaces and optimizing the overall user experience."
     }
@@ -170,26 +170,47 @@
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
-  "Features": [
-    {
-      "icon": "fa fa-code",
-      "title": "Web Development",
-      "text": "The most advanced and complete themes for your website. Choose from 100+ ready to use themes."
-    },
-    {
-      "icon": "fa fa-code",
-      "title": "Web Design",
-      "text": "Design your website with the most advanced and complete themes for your website. Choose from 100+ ready to use themes."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Branding",
-      "text": "Your Branding is our priority. We will make sure that your brand is visible on the internet."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "SEO",
-      "text": "The most advanced and complete themes for your website. Choose from 100+ ready to use themes."
-    }
-  ]
+"Faq": [
+  {
+    "question": "What services does Craftrix Agency offer?",
+    "answer": "We specialize in web design and development, impactful branding, and crafting result-oriented digital strategies to help businesses thrive in the digital era."
+  },
+  {
+    "question": "Why choose Craftrix Agency for web design?",
+    "answer": "We create dynamic, user-friendly, and visually appealing websites tailored to your business needs, ensuring seamless functionality and enhanced user experience."
+  },
+  {
+    "question": "How can Craftrix Agency improve my brand?",
+    "answer": "Our branding solutions focus on creating a strong, memorable identity that resonates with your target audience and helps your business stand out in the competitive market."
+  },
+  {
+    "question": "What is a result-oriented digital strategy?",
+    "answer": "A result-oriented digital strategy involves creating customized online marketing plans to achieve specific business goals, such as increased website traffic, lead generation, or higher sales."
+  },
+  {
+    "question": "Do you work with businesses of all sizes?",
+    "answer": "Yes, we work with startups, small businesses, and large enterprises, providing solutions tailored to meet their unique needs and objectives."
+  },
+
+  {
+    "question": "How long does it take to complete a website design project?",
+    "answer": "The timeline for a project depends on its complexity and scope. Typically, it can range from 2 to 8 weeks, but we ensure timely delivery without compromising quality."
+  },
+  {
+    "question": "What platforms do you use for web development?",
+    "answer": "We work with a variety of platforms, including WordPress, Shopify, and custom-coded solutions, to deliver the most suitable and scalable website for your business."
+  },
+  {
+    "question": "Can you help improve the SEO of my website?",
+    "answer": "Absolutely! Our digital strategies include SEO optimization to help your website rank higher on search engines, driving more organic traffic and boosting your online visibility."
+  },
+  {
+    "question": "Do you offer support and maintenance after website launch?",
+    "answer": "Yes, we provide ongoing support and maintenance to ensure your website remains updated, secure, and performs at its best."
+  },
+  {
+    "question": "How can I get started with Craftrix Agency?",
+    "answer": "You can contact us via our website, www.sandipbisen.in, or reach out directly to discuss your project requirements. We’ll guide you through the process and create a solution tailored to your needs."
+  }
+]
 }
