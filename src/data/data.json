@@ -22,10 +22,16 @@
   },
   "Stories": [
     {
-      "title": "Hospitality",
+      "title": "Restaurant",
       "largeImage": "img/portfolio/dev-2.png",
       "smallImage": "img/portfolio/dev-2.png",
       "link": "https://hitchkimeals.vercel.app/"
+    },
+    {
+      "title": "Lounge",
+      "largeImage": "img/portfolio/dev-8.png",
+      "smallImage": "img/portfolio/dev-8.png",
+      "link": "https://yummix.vercel.app/"
     },
     {
       "title": "Salon",
@@ -62,12 +68,6 @@
       "largeImage": "img/portfolio/dev-3.png",
       "smallImage": "img/portfolio/dev-3.png",
       "link": "https://bisensons.framer.ai/"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/dev-7.png",
-      "smallImage": "img/portfolio/dev-7.png",
-      "link": "https://google.com"
     },
     {
       "title": "Project Title",
