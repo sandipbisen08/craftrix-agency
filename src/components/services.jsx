@@ -7,7 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-          At Craftrix, we provide end-to-end solutions, from stunning web design and development to expert SEO, branding, and digital marketing. Our tailored services help businesses create a strong online presence and drive growth through innovative, results-driven strategies.
+          At Craftrixx, we provide end-to-end solutions, from stunning web design and development to expert SEO, branding, and digital marketing. Our tailored services help businesses create a strong online presence and drive growth through innovative, results-driven strategies.
           </p>
         </div>
         <div className="row">

@@ -153,12 +153,15 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 Craftrix{" "}
+            &copy; 2025 Craftrixx{" "}
             {/* <a href="http://www.sandipbisen.in" rel="nofollow">
               sandipbisen
             </a> */}
-            . All rights reserved.
+            . All rights reserved. 
+            <span>   |    Powered by <a href="https://brandpixel.agency" rel="nofollow" style={{color: "purple"}}>BrandPixelAgency</a></span>
           </p>
+
+          
         </div>
       </div>
     </div>

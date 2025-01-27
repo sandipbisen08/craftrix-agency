@@ -7,7 +7,7 @@ export const Team = (props) => {
         <div className="col-md-8 col-md-offset-2 section-title">
           <h2>Meet the Team</h2>
           <p>
-          Get to know the creative minds and technical experts driving innovation and success at Craftrix.
+          Get to know the creative minds and technical experts driving innovation and success at Craftrixx.
           </p>
         </div>
         <div id="row">
